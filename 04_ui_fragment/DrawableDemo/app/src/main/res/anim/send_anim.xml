@@ -25,5 +25,5 @@
         android:interpolator="@android:anim/accelerate_interpolator"
         android:pivotX="50%"
         android:pivotY="50%"
-        android:toDegrees="360" />
+        android:toDegrees="120" />
 </set>
