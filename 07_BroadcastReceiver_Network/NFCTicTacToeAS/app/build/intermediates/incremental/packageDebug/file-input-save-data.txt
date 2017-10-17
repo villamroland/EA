@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Tue Oct 17 12:56:31 CEST 2017
+2.base=D\:\\Development\\VC\\MobilWeb\\EA\\07_BroadcastReceiver_Network\\NFCTicTacToeAS\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\Development\\VC\\MobilWeb\\EA\\07_BroadcastReceiver_Network\\NFCTicTacToeAS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+5.set=DEX
+3.base=D\:\\Development\\VC\\MobilWeb\\EA\\07_BroadcastReceiver_Network\\NFCTicTacToeAS\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=D\:\\Development\\VC\\MobilWeb\\EA\\07_BroadcastReceiver_Network\\NFCTicTacToeAS\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+2.set=ANDROID_RESOURCE
+4.base=D\:\\Development\\VC\\MobilWeb\\EA\\07_BroadcastReceiver_Network\\NFCTicTacToeAS\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=D\:\\Development\\VC\\MobilWeb\\EA\\07_BroadcastReceiver_Network\\NFCTicTacToeAS\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_action_search.png
+7.set=ANDROID_RESOURCE
+count=8
+0.file=D\:\\Development\\VC\\MobilWeb\\EA\\07_BroadcastReceiver_Network\\NFCTicTacToeAS\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\activity_main.xml
+5.base=D\:\\Development\\VC\\MobilWeb\\EA\\07_BroadcastReceiver_Network\\NFCTicTacToeAS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+4.set=ANDROID_RESOURCE
+6.base=D\:\\Development\\VC\\MobilWeb\\EA\\07_BroadcastReceiver_Network\\NFCTicTacToeAS\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\Development\\VC\\MobilWeb\\EA\\07_BroadcastReceiver_Network\\NFCTicTacToeAS\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+1.set=ANDROID_RESOURCE
+7.base=D\:\\Development\\VC\\MobilWeb\\EA\\07_BroadcastReceiver_Network\\NFCTicTacToeAS\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=D\:\\Development\\VC\\MobilWeb\\EA\\07_BroadcastReceiver_Network\\NFCTicTacToeAS\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+6.set=ANDROID_RESOURCE
+0.base=D\:\\Development\\VC\\MobilWeb\\EA\\07_BroadcastReceiver_Network\\NFCTicTacToeAS\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\Development\\VC\\MobilWeb\\EA\\07_BroadcastReceiver_Network\\NFCTicTacToeAS\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\logo.png
+3.set=ANDROID_RESOURCE
+1.base=D\:\\Development\\VC\\MobilWeb\\EA\\07_BroadcastReceiver_Network\\NFCTicTacToeAS\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\Development\\VC\\MobilWeb\\EA\\07_BroadcastReceiver_Network\\NFCTicTacToeAS\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+0.set=ANDROID_RESOURCE
